@@ -1,0 +1,18 @@
+#contact-info-section {
+  width: 20%;
+  float: left;
+  text-align: left;
+  padding: 20px;
+}
+
+#map-section {
+  width: 80%;
+  margin-left: 20%;
+  text-align: right;
+  padding: 20px;
+
+  #map {
+    width: 85%;
+    border: 2px solid black;
+  }
+}

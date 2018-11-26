@@ -1,0 +1,19 @@
+.contact {
+  float: left;
+  padding: 30px;
+  ul {
+    padding-top: 50px;
+    list-style: none;
+    li {
+      padding: 25px 0;
+    }
+  }
+}
+
+.selfie {
+  img {
+    width: 65%;
+    border: 3px solid black;
+    margin: 45px;
+  }
+}
